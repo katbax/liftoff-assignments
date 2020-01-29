@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- Guest Landing Page: https://github.com/katbax/liftoff-assignments/blob/master/EatUP!%20Wireframes/Guest%20Landing%20Page.pdf
+- User Add Recipe: https://github.com/katbax/liftoff-assignments/blob/master/EatUP!%20Wireframes/User%20Add%20Recipe.pdf
+- User Landing Page: https://github.com/katbax/liftoff-assignments/blob/master/EatUP!%20Wireframes/User%20Landing%20Page.pdf
+- User Add Recipe Page/ Full Recipe Page: https://github.com/katbax/liftoff-assignments/blob/master/EatUP!%20Wireframes/User%20My%20Recipes%20and%20Full%20Recipe%20Page.pdf
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/RNF1qWpk/eatup
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/katbax/EatUP
